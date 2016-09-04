@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : Page Exception
+# --
+${ExceptionName}: {
+    get: function () { return this.exception('${}'); }
+}$0

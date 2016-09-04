@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+#name : jsdoc:description
+# --
+@description ${Block-level description.}
+* $0

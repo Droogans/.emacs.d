@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : xit
+# --
+it('should ${}');

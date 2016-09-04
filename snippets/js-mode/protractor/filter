@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : filter
+# --
+filter(function (${elem}) {
+    ${}
+});$0

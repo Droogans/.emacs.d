@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : jsdoc:link
+# --
+{@link ${module.namespace}}

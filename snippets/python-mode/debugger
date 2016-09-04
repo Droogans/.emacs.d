@@ -1,0 +1,4 @@
+# name: dbug
+# key: dbug
+# --
+import pdb; pdb.set_trace()

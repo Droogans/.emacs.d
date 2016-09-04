@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : iff
+# --
+if (${cond}) {
+   ${}
+}$0

@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : whitespace
+# --
+/* jshint -W015 */

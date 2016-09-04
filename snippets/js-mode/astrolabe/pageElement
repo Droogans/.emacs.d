@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : Page Element
+# --
+${fieldName}: {
+    get: function () { return \$${}('${}'); }
+}$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+#name : jsdoc:type
+# --
+@type {${ObjectType}}
+* $0

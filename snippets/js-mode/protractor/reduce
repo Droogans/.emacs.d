@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : reduce
+# --
+reduce(function (${acc}, ${elem}) {
+    ${}
+}, ${{}});$0

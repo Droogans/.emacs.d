@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : then
+# --
+then(function (${}) {
+    ${}
+});$0

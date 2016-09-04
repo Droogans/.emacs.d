@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : iffundef
+# --
+if (${1:cond} === undefined) {
+   $1 = ${2:null}
+}$0

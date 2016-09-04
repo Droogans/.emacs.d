@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#name : Page Form
+# --
+${pageFormName}: {
+    get: function () { ${} },
+    set: function (${}) { ${} }
+}${,}$0

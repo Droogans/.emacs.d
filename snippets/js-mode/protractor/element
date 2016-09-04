@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : element
+# --
+element(by.${binding}(${}))$0

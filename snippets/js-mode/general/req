@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+#name : req
+# --
+var ${module} = require('${module}');
+$0

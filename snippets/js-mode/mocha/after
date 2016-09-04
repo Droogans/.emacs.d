@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : after
+# --
+after(function () {
+    $0
+});

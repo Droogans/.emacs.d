@@ -1,0 +1,16 @@
+!.gitignore
+.DS_Store
+*~
+*#
+*.elc
+ac-comphist.dat
+autosaves/*
+backups/*
+games/*
+server/*
+session.*
+.mc-lists.el
+tramp
+*.notes
+bookmarks
+helm*

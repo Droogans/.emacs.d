@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : expect
+# --
+expect(${}).to.${eventually.}${equal}(${});$0

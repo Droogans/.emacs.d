@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+#name : lodash
+# --
+var ${_} = require('lodash');
+$0
