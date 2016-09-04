@@ -94,6 +94,8 @@
     (add-to-list 'auto-mode-alist '("\\.scss\\'" . sass-mode))
     (add-to-list 'auto-mode-alist '("\\.sass\\'" . sass-mode))
 
+(setenv "SSH_ASKPASS" "git-gui--askpass")
+
 (set-default 'tramp-default-proxies-alist (quote ((".*" "\\`root\\'" "/ssh:%h:"))))
 (setq tramp-default-method "ssh")
 
