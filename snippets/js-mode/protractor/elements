@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : elements
-# --
-element.all(by.${binding}(${}))$0

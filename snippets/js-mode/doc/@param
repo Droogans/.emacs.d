@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-#name : jsdoc:param
-# --
-@param {${ObjectType}} ${objectInstance} - ${Parameter description.}
-* $0

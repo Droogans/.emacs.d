@@ -1,9 +1,0 @@
-# -*- mode: snippet -*-
-#name : ngdoc
-# --
-/**
-    * @ngdoc ${object}
-    * @name ${}
-    * @description
-    * $0
-**/

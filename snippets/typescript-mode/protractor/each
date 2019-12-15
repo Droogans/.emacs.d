@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-#name : each
-# --
-each(function (${elem}) {
-    ${}
-});$0

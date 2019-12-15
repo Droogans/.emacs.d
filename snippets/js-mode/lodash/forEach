@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-#name : forEach
-# --
-_.forEach(${collection}, function (${item}) {
-    $0
-});

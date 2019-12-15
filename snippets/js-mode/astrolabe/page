@@ -1,9 +1,0 @@
-# -*- mode: snippet -*-
-#name : page
-# --
-var Page = require('astrolabe').Page;
-
-module.exports = Page.create({
-    url: { value: '/${}' },
-    $0
-});

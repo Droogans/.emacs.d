@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-#name : map
-# --
-map(function (${elem}) {
-    ${}
-});$0

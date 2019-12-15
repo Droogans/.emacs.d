@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-#name : Page By
-# --
-${fieldName}: {
-    get: function () { return element${}(By.${binding}('${}')); }
-}$0

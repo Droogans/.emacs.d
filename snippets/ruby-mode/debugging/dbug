@@ -1,4 +1,0 @@
-# name: dbug
-# key: dbug
-# --
-require 'debugger'; debugger
