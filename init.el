@@ -119,11 +119,6 @@
   (interactive)
   (shell (current-buffer)))
 
-(defun new-browser-tab ()
-  "Open a new browser tab in the default browser."
-  (interactive)
-  (shell-command "xdg-open http://google.com"))
-
 ;custom keys
 ;;;;;;;;;;;;
 ;global
@@ -135,7 +130,6 @@
 (global-set-key [(backtab)] 'company-complete)
 (global-set-key (kbd "M-{") 'previous-buffer)
 (global-set-key (kbd "M-}") 'next-buffer)
-(global-set-key (kbd "s-t") 'new-browser-tab)
 (global-set-key (kbd "M-k") 'kill-this-buffer)
 (global-set-key (kbd "M-u") 'revert-buffer)
 (global-set-key (kbd "C-x a") 'erase-buffer)
@@ -181,6 +175,7 @@
 (setq-default indent-tabs-mode nil)
 (put 'downcase-region 'disabled nil)
 (put 'upcase-region 'disabled nil)
+(put 'erase-buffer 'disabled nil)
 
 (server-start)
 
