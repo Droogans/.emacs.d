@@ -5,6 +5,16 @@
 ac-comphist.dat
 autosaves/*
 backups/*
+games/*
 session.*
 .mc-lists.el
 tramp
+*.notes
+bookmarks
+helm*
+.python-environments/
+projectile-bookmarks.eld
+history
+.mypy_cache
+recentf
+transient/
